@@ -1,0 +1,49 @@
+services:
+  - type: web
+    name: ie7-content-ops-mcp
+    runtime: node
+    region: oregon
+    plan: starter
+    buildCommand: npm install
+    startCommand: node server.js
+    healthCheckPath: /health
+    envVars:
+      # Node Environment
+      - key: NODE_ENV
+        value: production
+      
+      # API Keys (CRITICAL)
+      - key: NOTION_TOKEN
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      
+      # Database IDs (CRITICAL)
+      - key: CONTENT_REQUEST_DB_ID
+        sync: false
+      - key: PUBLISHING_REQUEST_DB_ID
+        sync: false
+      - key: GENERAL_INQUIRY_DB_ID
+        sync: false
+      - key: TEMPLATES_DATABASE_ID
+        sync: false
+      
+      # Optional Database IDs (if needed in future)
+      - key: PHOTOSHOOT_DB_ID
+        sync: false
+      - key: EVENT_REQUEST_DB_ID
+        sync: false
+      
+      # Default Assignee
+      - key: DEFAULT_ASSIGNEE_NAME
+        sync: false
+      - key: DEFAULT_ASSIGNEE_EMAIL
+        sync: false
+      
+      # Configuration
+      - key: TEMPLATE_CACHE_TTL
+        value: "900"
+      
+      # Legacy Compatibility
+      - key: REQUESTS_DB_ID
+        sync: false

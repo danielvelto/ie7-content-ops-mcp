@@ -1,0 +1,4076 @@
+[
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8021-9dd5-d82d0b1277a2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "callout",
+    "callout": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "URGENT DEADLINE:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "URGENT DEADLINE:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " October 15, 2025",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " October 15, 2025",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "🚨"
+      },
+      "color": "red_background"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80f2-81fd-f088b0f6881a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8094-b739-ef35327c4be3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "📝 Raw Brief",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "📝 Raw Brief",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-809f-959a-fa2a0b2435c1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "*ON THE DAY",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "*ON THE DAY",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80c2-a581-f5c9fc58e54f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Pre-Drinks Reception 1:30pm - 2.15pm",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pre-Drinks Reception 1:30pm - 2.15pm",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8017-99d1-dc079df33d6d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Drinks will be served as guests arrive.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Drinks will be served as guests arrive.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80bf-8691-e72b727140ad",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Lunch and Honours 2:15pm - 5pm",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Lunch and Honours 2:15pm - 5pm",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-803d-ab05-dc7c5ce9788d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Once seated, lunch will begin. After the first course, each honouree will be introduced and celebrated with a short tribute. Lunch will continue between honours, allowing space for conversation and connection.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Once seated, lunch will begin. After the first course, each honouree will be introduced and celebrated with a short tribute. Lunch will continue between honours, allowing space for conversation and connection.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8066-8b7a-ec2ac24aaa15",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Celebration 5pm - Midnight",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Celebration 5pm - Midnight",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8005-8a70-df82d55d78a3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Following lunch, guests will be invited to stay on for music, drinks and a relaxed celebration. A chance to unwind and enjoy the evening in good company.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Following lunch, guests will be invited to stay on for music, drinks and a relaxed celebration. A chance to unwind and enjoy the evening in good company.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8068-be35-d57c3711c6a2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "The venue holds 85 for lunch and then up to 200 for the party.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "The venue holds 85 for lunch and then up to 200 for the party.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-809f-b3ba-cf3d48b733d5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "So regarding Porte Noire - we also have Don Julio sponsoring drinks x2 or 3 cocktails with their tequila from drinks reception to the end.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "So regarding Porte Noire - we also have Don Julio sponsoring drinks x2 or 3 cocktails with their tequila from drinks reception to the end.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-807b-8e96-e03a5ecde6dc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "QUESTIONS",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "QUESTIONS",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8085-af06-f20b60fbbfe2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Are you happy to provide Porte Noire Rose & Cognac for 200 people and would you like to provide branded glassware (as an option)?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Are you happy to provide Porte Noire Rose & Cognac for 200 people and would you like to provide branded glassware (as an option)?",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80a7-9d46-da3c8b2ff0f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "From Cafe Koko: For the drinks delivery will this arrive the day before ( 14th?). Delivery address: The House of Koko, 74 Crowndale road NW11TP.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "From Cafe Koko: For the drinks delivery will this arrive the day before ( 14th?). Delivery address: The House of Koko, 74 Crowndale road NW11TP.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-800a-86d9-dce004879a3e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "From Cafe Koko: Re the Cognac please can you let us know cocktail specs (if any) by tomorrow end of day?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "From Cafe Koko: Re the Cognac please can you let us know cocktail specs (if any) by tomorrow end of day?",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8040-93e3-db133f299518",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Regarding visibility please let me know that the following is okay:",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Regarding visibility please let me know that the following is okay:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8020-8899-feac7cfb445d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bottles on the bar",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bottles on the bar",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-808e-aff6-f876dbbdfc02",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Logo on the invite",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Logo on the invite",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80f7-b5c2-c474f022c06f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Mention on the press release",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Mention on the press release",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8031-9493-c6d7fa0744fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Logo on the menu",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Logo on the menu",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8083-bd46-df8092decb18",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Logo on the Step and Repeat.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Logo on the Step and Repeat.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80c8-b3cd-e21a23b68294",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Porte Noire attendance",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Porte Noire attendance",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80e4-b210-e767502bcd9a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "3 Guests to the lunch",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "3 Guests to the lunch",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80d4-b321-d1da37accc83",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2 extra Guests to the party",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2 extra Guests to the party",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-801e-b48b-ef272cb79ff9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "5 guest spaces in total",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "5 guest spaces in total",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8089-b2a2-ce27a2e1587d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:39:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Please send me the Porte Noire Logo ASAP to go on the invite see attached. It will be in the middle at the top ...*",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Please send me the Porte Noire Logo ASAP to go on the invite see attached. It will be in the middle at the top ...*",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80e4-99d7-f0789b67e628",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80b1-8035-d1287042aaca",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "📋 Brief Overview",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "📋 Brief Overview",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8081-b457-f44b636b5598",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Asset Type:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Asset Type:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Content Capture | Videographer",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Content Capture | Videographer",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8023-a851-c3d18c2dfe2e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Format:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Format:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " 9:16 vertical video | Event recap approximately 1 minute long",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " 9:16 vertical video | Event recap approximately 1 minute long",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8074-bf89-f3871445950f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Event:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Event:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Blacklisted Reception (Porte Noire x Damson Idris collaboration)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Blacklisted Reception (Porte Noire x Damson Idris collaboration)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80a5-aeda-ef63415de05e",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Objective:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Objective:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Capture an event recap video that showcases Porte Noire products in a classy, elevated event setting for social media distribution.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Capture an event recap video that showcases Porte Noire products in a classy, elevated event setting for social media distribution.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8039-bc5f-d862e4d3b358",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8071-8564-d7de924b73fb",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "📅 Event Schedule & Logistics",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "📅 Event Schedule & Logistics",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8097-ad2d-db948c1d48ea",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Date:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Date:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " October 15, 2025",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " October 15, 2025",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80da-bf10-ee52c5fad6f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Venue:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Venue:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Cafe Koko | The House of Koko, 74 Crowndale Road NW11TP",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Cafe Koko | The House of Koko, 74 Crowndale Road NW11TP",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8016-af12-fc9c622f4104",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Event Timeline:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Event Timeline:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80e3-ab6a-f768c88f3254",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "1:30pm - 2:15pm:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "1:30pm - 2:15pm:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Pre-Drinks Reception (capture arrivals and atmosphere)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Pre-Drinks Reception (capture arrivals and atmosphere)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8085-82b9-c16d8543ce5a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2:15pm - 5:00pm:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2:15pm - 5:00pm:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Lunch and Honours (capture ceremony and celebration moments)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Lunch and Honours (capture ceremony and celebration moments)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80ca-9c46-dba210fc893d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "5:00pm - Midnight:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "5:00pm - Midnight:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Celebration (capture party atmosphere and guest enjoyment)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Celebration (capture party atmosphere and guest enjoyment)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80b2-a54c-e34fe5e0f4aa",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Venue Capacity:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Venue Capacity:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-805a-bc57-d3031a5112d1",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "85 guests for lunch",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "85 guests for lunch",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80db-b82b-fa63a6c7f7f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Up to 200 guests for party",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Up to 200 guests for party",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8012-b9b1-fae241b17829",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Sponsorship & Brand Visibility:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Sponsorship & Brand Visibility:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80d2-8bf0-ebdf0a103505",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Don Julio sponsoring 2-3 tequila cocktails throughout event",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Don Julio sponsoring 2-3 tequila cocktails throughout event",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-803c-af2f-cfa674a72790",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Porte Noire providing Rose & Cognac for 200 people (branded glassware option available)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Porte Noire providing Rose & Cognac for 200 people (branded glassware option available)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80fc-9efc-ef81ba677309",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Bottles displayed on bar",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Bottles displayed on bar",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8028-ae08-e95d0183a823",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Logo placement: Invite, press release, menu, step and repeat",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Logo placement: Invite, press release, menu, step and repeat",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8043-bdc1-e2c5fd0e09f2",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Porte Noire Attendance:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Porte Noire Attendance:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80ff-9c8e-e2333c3a86f6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "3 guests for lunch",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "3 guests for lunch",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-803b-930a-dbcbeda5c56c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "2 additional guests for party",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "2 additional guests for party",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-804f-be76-e60a4d4726b5",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "5 total guest spaces",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "5 total guest spaces",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80ac-b5be-c1894c14aec6",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80aa-9982-db229c2a0a93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "🎥 Creative Requirements",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "🎥 Creative Requirements",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8075-9cae-faa665c4c836",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What to Capture",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What to Capture",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8084-8573-e4a48213f1fe",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Product Shots:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Product Shots:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-807c-9370-fc0b54361180",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Porte Noire bottles and branded elements",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Porte Noire bottles and branded elements",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8093-8682-fc692f978853",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Product in use during the event",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Product in use during the event",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8042-a199-f57ba956f10f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Close-ups of Rose & Cognac being served",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Close-ups of Rose & Cognac being served",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8004-a6bc-cfb57b30a295",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Guest Interviews:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Guest Interviews:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8067-8694-f5b0be644805",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Brief testimonials or reactions from attendees",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Brief testimonials or reactions from attendees",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8090-a103-d1c31a7d60e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Capture the energy and excitement",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Capture the energy and excitement",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8091-b7e1-de4e53c8f7cc",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "B-Roll:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "B-Roll:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8036-8102-ef9bfc3962ba",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Event setup and venue details",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Event setup and venue details",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-800a-ad5b-ea68e83e8142",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Candid guest interactions and connections",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Candid guest interactions and connections",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8039-b7a5-e23c147e90a3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Venue atmosphere and ambiance",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Venue atmosphere and ambiance",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80c4-9f20-ead755187ef9",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cityscape/exterior shots if relevant",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cityscape/exterior shots if relevant",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-803a-8154-d348f48925b8",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_3",
+    "heading_3": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Key Direction",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Key Direction",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80cd-9509-d56400892107",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Tone:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Tone:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Classy, elevated, sophisticated - reflecting Porte Noire's premium positioning",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Classy, elevated, sophisticated - reflecting Porte Noire's premium positioning",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8069-bd92-f38d132e83c0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Exclusions:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Exclusions:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Idris Elba should NOT be filmed or featured prominently",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Idris Elba should NOT be filmed or featured prominently",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80d8-9793-d2849deeb091",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Duration:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Duration:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Approximately 1 minute final edit",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Approximately 1 minute final edit",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8083-a25b-cfa26f662e2a",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Style:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Style:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Social-first, engaging event recap",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Social-first, engaging event recap",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8042-a746-df6c6522850b",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80ad-a815-d89a149d796d",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "💼 Production Details",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "💼 Production Details",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8098-93d5-e50b4f0d7d93",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Budget:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Budget:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " £2,000",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " £2,000",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8091-bf9a-f74f1c7ba5cf",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Main Onsite Contact:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Main Onsite Contact:",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " Akua | +44 7885 632428",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " Akua | +44 7885 632428",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8071-ac4a-fc5236688f14",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Delivery Requirements:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Delivery Requirements:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80e2-923a-f35ed4a039a4",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "9:16 vertical format optimized for Instagram Reels/Stories and TikTok",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "9:16 vertical format optimized for Instagram Reels/Stories and TikTok",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-807e-9218-cb55f6a4a403",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Event recap approximately 1 minute long",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Event recap approximately 1 minute long",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80bf-bcc7-e0b641df89e3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Still To Be Confirmed:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Still To Be Confirmed:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80cd-b1a7-e849ab0bdc5f",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Music preferences (to be shared later)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Music preferences (to be shared later)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8065-b63b-ed6c0944ca47",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Voiceover/on-screen text requirements (to be sorted later)",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Voiceover/on-screen text requirements (to be sorted later)",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80ff-aa2b-fa9cf7913b10",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Drinks Delivery Note:",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Drinks Delivery Note:",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-804c-9858-d6bdc0ef41f3",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Delivery scheduled for October 14th to venue address",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Delivery scheduled for October 14th to venue address",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8082-b372-dc6d6affc042",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "bulleted_list_item",
+    "bulleted_list_item": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Cognac cocktail specs needed by end of day October 4th",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Cognac cocktail specs needed by end of day October 4th",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-8008-83d3-c33673b3d1cd",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "divider",
+    "divider": {}
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80c5-957b-c83ea74e61e0",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "heading_2",
+    "heading_2": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "📌 Additional Notes",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "📌 Additional Notes",
+          "href": null
+        }
+      ],
+      "is_toggleable": false,
+      "color": "default"
+    }
+  },
+  {
+    "object": "block",
+    "id": "2984900f-e66a-80f3-9716-da94dfda418c",
+    "parent": {
+      "type": "page_id",
+      "page_id": "2984900f-e66a-80fa-85d9-cb133640649f"
+    },
+    "created_time": "2025-10-26T15:31:00.000Z",
+    "last_edited_time": "2025-10-26T15:31:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "6c6d356a-61d2-455e-9ddd-bfb3cf43da4e"
+    },
+    "has_children": false,
+    "archived": false,
+    "in_trash": false,
+    "type": "paragraph",
+    "paragraph": {
+      "rich_text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "User was efficient and clear. They provided a full email chain to explain the details and confirmed information quickly. They will share music preferences and voiceover details later. Some details required gentle probing (e.g., Akua's phone number) as they were not immediately present in the provided email chain, but the user provided them when prompted.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "User was efficient and clear. They provided a full email chain to explain the details and confirmed information quickly. They will share music preferences and voiceover details later. Some details required gentle probing (e.g., Akua's phone number) as they were not immediately present in the provided email chain, but the user provided them when prompted.",
+          "href": null
+        }
+      ],
+      "color": "default"
+    }
+  }
+]
