@@ -1,0 +1,45 @@
+[
+  {
+    "headers": {
+      "host": "velto.app.n8n.cloud",
+      "user-agent": "axios/1.12.0",
+      "content-length": "3428",
+      "accept": "application/json,text/html,application/xhtml+xml,application/xml,text/*;q=0.9, image/*;q=0.8, */*;q=0.7",
+      "accept-encoding": "gzip, br",
+      "cdn-loop": "cloudflare; loops=1; subreqs=1",
+      "cf-connecting-ip": "98.67.233.91",
+      "cf-ew-via": "15",
+      "cf-ipcountry": "DE",
+      "cf-ray": "996e38d71540dcc4-FRA",
+      "cf-visitor": "{\"scheme\":\"https\"}",
+      "cf-worker": "n8n.cloud",
+      "content-type": "application/json",
+      "x-forwarded-for": "98.67.233.91, 172.71.148.18",
+      "x-forwarded-host": "velto.app.n8n.cloud",
+      "x-forwarded-port": "443",
+      "x-forwarded-proto": "https",
+      "x-forwarded-server": "traefik-prod-users-gwc-5-6fbf5bdbfc-j7vrz",
+      "x-is-trusted": "yes",
+      "x-real-ip": "98.67.233.91"
+    },
+    "params": {},
+    "query": {},
+    "body": {
+      "Project Name": "IE7 | Summer Splash 2 | Content Brief",
+      "Due Dates": "IDEALLY DUE BY: 2025-11-05T00:00\nLATEST DUE BY: 2025-11-07T00:00\nPUBLISH BY: 2025-11-07T00:00",
+      "Raw Brief": "We need a 30-second promotional video for our new line of fruit-infused sparkling water. The video should be vibrant and energetic, showcasing the drink as the perfect summer refreshment. We want to feature diverse groups of people enjoying the drink at a beach party and a city rooftop gathering. The key message is that AquaFresh is the healthy and delicious choice to stay hydrated and energized. The team should fill out all other questions.",
+      "brief_details": "Asset Type:\nVideo | Instagram Reels, YouTube, TikTok\n\nFormat:\n9:16 and 16:9 aspect ratios\n30 seconds duration\n\nOverview:\nTo promote AquaFresh Beverages' new line of fruit-infused sparkling water as part of the 'Stay Refreshed' summer campaign. The video should be vibrant and energetic, featuring diverse groups enjoying the drink at a beach party and a city rooftop gathering, emphasizing AquaFresh as a healthy and delicious choice for hydration and energy.\n\nKey Details:\n\n*   Energetic, fun, and cinematic tone/style\n*   Use natural lighting and show genuine smiles.\n*   The rooftop scene can be simplified or shortened if necessary.\n\nReferences:\n\n*   [Moodboard](https://www.pinterest.com/example/summer-splash)\n\nSupporting Details (make sure there is spacing in between all these and bullet point them too):\n*   Brand guide for logo usage and color palette (available in shared assets folder)\n*   Do not use any stock footage or overly corporate-style shots\n*   Close-up shot of the product can\n*   Campaign tagline 'Stay Refreshed'\n*   Company logo in the final frame\n*   Version with embedded subtitles\n*   Text overlays: 'New Fruit-Infused Flavors' and 'Find Your Flavor.'\n*   All content assets provided via a shared Google Drive folder (video footage only)\n*   Official logo and font files are in the Google Drive folder\n*   Detailed script and shot list included in the Google Drive folder\n*   Voiceover to be determined by the team\n*   Music to be sourced by the team\n*   Thumbnail covers for Reels or TikTok to be created by the team if needed\n*   Final approval on edit to be determined by the team\n*   Multiple layers of approval to be determined by the team\n*   Order of approval to be determined by the team\n*   Preferred method of communication (WhatsApp, Slack, Email, Review Calls) to be determined by the team\n*   Okay to join a WhatsApp group for feedback\n*   Commit to joining review meetings with creatives/stakeholders",
+      "User_Number": "447535247708",
+      "Client Email": "daniel.velto.co.uk",
+      "Client Name": "Daniel Velto",
+      "Asset Type": "Content Request",
+      "Complexity level": "Pizza",
+      "Company Name": "AquaFresh Beverages",
+      "interaction notes": "User was direct and provided clear instructions to replicate the previous brief with a new project name, specifying deadlines as \"next week\". They were efficient and clear, wanting the team to fill in any missing details. They provided their email and confirmed they are the main contact.",
+      "everything_else": "The project name is 'Summer Splash 2'. The user wants all missing details to be filled out by the team. He would like it ideally by next week, absolutely latest by next week on one day. No other specific information provided, all other details are to be replicated from the previous 'Summer Splash' brief."
+    },
+    "webhookUrl": "https://velto.app.n8n.cloud/webhook/dcms-brief",
+    "executionMode": "production"
+  }
+]
+

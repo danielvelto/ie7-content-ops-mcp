@@ -42,6 +42,56 @@ const semanticMapper = new SemanticPropertyMapper();
 const briefRouter = new BriefRouter();
 const intelligentProcessor = new IntelligentProcessor(); // Phase 3: Meta-cognitive layer
 
+// ============================================
+// JOB QUEUE FOR CONCURRENT REQUEST PROCESSING
+// ============================================
+// WHY THIS WORKS: Prevents rate limit issues, controls resource usage
+const requestQueue = [];
+let currentlyProcessing = 0;
+const MAX_CONCURRENT = parseInt(process.env.MAX_CONCURRENT_REQUESTS) || 3;
+
+console.log(`✅ Request queue initialized (Max concurrent: ${MAX_CONCURRENT})`);
+
+/**
+ * Add request to queue and process if slots available
+ */
+function enqueueRequest(payload) {
+  requestQueue.push(payload);
+  console.log(`📥 Request queued (Queue size: ${requestQueue.length}, Processing: ${currentlyProcessing}/${MAX_CONCURRENT})`);
+  processNextIfAvailable();
+}
+
+/**
+ * Process next request from queue if under concurrency limit
+ */
+function processNextIfAvailable() {
+  if (currentlyProcessing >= MAX_CONCURRENT) {
+    console.log(`⏸️  Queue paused: ${currentlyProcessing} requests processing (max ${MAX_CONCURRENT})`);
+    return;
+  }
+  
+  if (requestQueue.length === 0) {
+    if (currentlyProcessing === 0) {
+      console.log('✅ Queue empty, all requests processed');
+    }
+    return;
+  }
+  
+  currentlyProcessing++;
+  const payload = requestQueue.shift();
+  
+  console.log(`🔄 Starting request (Processing: ${currentlyProcessing}/${MAX_CONCURRENT}, Queue: ${requestQueue.length})`);
+  
+  // Process asynchronously
+  processRequestAsync(payload)
+    .catch(err => console.error('❌ Request processing failed:', err))
+    .finally(() => {
+      currentlyProcessing--;
+      console.log(`✅ Request slot freed (Processing: ${currentlyProcessing}/${MAX_CONCURRENT}, Queue: ${requestQueue.length})`);
+      processNextIfAvailable(); // Process next in queue
+    });
+}
+
 app.use(express.json());
 
 // ============================================
@@ -70,20 +120,60 @@ app.get('/health', (req, res) => {
 // ============================================
 
 app.post('/create-request', async (req, res) => {
+  // Quick validation and immediate response
+  console.log('\n' + '='.repeat(80));
+  console.log('📥 INCOMING WEBHOOK REQUEST');
+  console.log('='.repeat(80));
+  console.log('⏰ Timestamp:', new Date().toISOString());
+  console.log('📊 Request body type:', typeof req.body);
+  console.log('📊 Is array?', Array.isArray(req.body));
+  console.log('📊 Body keys:', Object.keys(req.body || {}));
+  console.log('📄 Full payload (first 500 chars):', JSON.stringify(req.body, null, 2).substring(0, 500));
+  console.log('='.repeat(80));
+  
+  // Basic validation before accepting
+  let payload = req.body;
+  if (Array.isArray(payload) && payload.length > 0) {
+    payload = payload[0];
+  }
+  
+  const hasData = payload && (payload.body || payload.briefData || payload['Project Name'] || payload['Asset Type']);
+  
+  if (!hasData) {
+    return res.status(400).json({
+      success: false,
+      error: 'Invalid payload: No brief data found'
+    });
+  }
+  
+  // RESPOND IMMEDIATELY - Don't make n8n wait!
+  res.status(202).json({
+    success: true,
+    message: 'Request accepted and processing',
+    timestamp: new Date().toISOString()
+  });
+  
+  console.log('✅ Responded 202 to webhook, adding to queue...');
+  
+  // Add to queue (don't process directly)
+  enqueueRequest(req.body);
+});
+
+/**
+ * Async request processing function
+ * WHY THIS WORKS: Processes after webhook response, calls error webhook only on failure
+ */
+async function processRequestAsync(originalPayload) {
+  const startTime = Date.now();
+  
   try {
     console.log('\n' + '='.repeat(80));
-    console.log('📥 INCOMING WEBHOOK REQUEST');
-    console.log('='.repeat(80));
-    console.log('⏰ Timestamp:', new Date().toISOString());
-    console.log('📊 Request body type:', typeof req.body);
-    console.log('📊 Is array?', Array.isArray(req.body));
-    console.log('📊 Body keys:', Object.keys(req.body || {}));
-    console.log('📄 Full payload (first 500 chars):', JSON.stringify(req.body, null, 2).substring(0, 500));
+    console.log('🔄 ASYNC PROCESSING STARTED');
     console.log('='.repeat(80));
     
     // Step 0: Normalize n8n webhook format
     // WHY THIS WORKS: n8n sends array wrapper with body object
-    let payload = req.body;
+    let payload = originalPayload;
     
     // If n8n sends array, extract first element
     if (Array.isArray(payload) && payload.length > 0) {
@@ -241,7 +331,7 @@ app.post('/create-request', async (req, res) => {
     const sopGuidelines = {
       defaultAssignee: {
         name: process.env.DEFAULT_ASSIGNEE_NAME || 'Daniel Fayomi',
-        email: process.env.DEFAULT_ASSIGNEE_EMAIL || 'daniel@ie7.com'
+        email: process.env.DEFAULT_ASSIGNEE_EMAIL || 'daniel@velto.co.uk'
       },
       decisionRules: [
         'Assignee field always populated with default assignee (system rule)',
@@ -441,15 +531,51 @@ Based on the error and schema, fix the properties to match Notion's requirements
       reasoning: mappingResult.mapping.metadata
     });
     
+    // SUCCESS - Log completion
+    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+    console.log(`✅ Async processing completed successfully in ${duration}s`);
+    console.log('='.repeat(80));
+    
   } catch (error) {
-    console.error('❌ Request creation failed:', error);
-    res.status(500).json({
-      success: false,
-      error: error.message,
-      stack: process.env.NODE_ENV === 'development' ? error.stack : undefined
-    });
+    console.error('❌ Async processing failed:', error);
+    
+    const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+    console.log(`❌ Processing failed after ${duration}s`);
+    console.log('='.repeat(80));
+    
+    // Call error webhook if configured
+    const errorWebhookUrl = process.env.ERROR_WEBHOOK_URL;
+    
+    if (errorWebhookUrl) {
+      console.log('🚨 Sending error notification to webhook...');
+      
+      try {
+        const axios = require('axios');
+        
+        await axios.post(errorWebhookUrl, {
+          success: false,
+          error: error.message,
+          errorStack: error.stack,
+          timestamp: new Date().toISOString(),
+          processingDuration: duration + 's',
+          originalPayload: originalPayload,
+          briefData: payload?.briefData || null,
+          requestType: payload?.requestType || null
+        }, {
+          timeout: 5000,
+          headers: { 'Content-Type': 'application/json' }
+        });
+        
+        console.log('✅ Error webhook called successfully');
+      } catch (webhookError) {
+        console.error('❌ Failed to call error webhook:', webhookError.message);
+      }
+    } else {
+      console.log('⚠️ No ERROR_WEBHOOK_URL configured, skipping error notification');
+    }
   }
-});
+}
+
 
 // ============================================
 // CACHE MANAGEMENT ENDPOINTS
